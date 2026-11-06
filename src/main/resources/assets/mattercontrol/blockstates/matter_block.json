@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "density=0": { "model": "mattercontrol:block/matter_block_0" },
+    "density=1": { "model": "mattercontrol:block/matter_block_1" },
+    "density=2": { "model": "mattercontrol:block/matter_block_2" },
+    "density=3": { "model": "mattercontrol:block/matter_block_3" }
+  }
+}

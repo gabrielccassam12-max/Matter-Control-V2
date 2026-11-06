@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="mattercontrol"
+version="1.0.0"
+displayName="Matter Control"
+authors="Matter Control"
+description='''
+Sistema avançado e 100% controlável de manipulação de matéria: absorva, levante, mova, gire,
+compacte, divida, una, construa, aprisione e arremesse matéria do mundo em tempo real.
+'''
+
+[[dependencies.mattercontrol]]
+modId="neoforge"
+type="required"
+versionRange="[21.1,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.mattercontrol]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.22)"
+ordering="NONE"
+side="BOTH"
